@@ -1,4 +1,4 @@
-# 🚀 Spring Boot Project Architecture
+# Spring Boot Project Architecture
 
 This project demonstrates a typical **Spring Boot layered architecture**, following best practices for structuring applications with **Controller, Service, Repository, DTO, and Database layers**.
 

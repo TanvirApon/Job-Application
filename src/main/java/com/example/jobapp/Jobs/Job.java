@@ -1,5 +1,6 @@
 package com.example.jobapp.Jobs;
 
+
 import jakarta.persistence.*;
 
 @Entity
@@ -14,6 +15,7 @@ public class Job {
     private String minSalary;
     private String maxSalary;
     private String location;
+
 
 
     // Default No argument Needed to fetch data from Database
